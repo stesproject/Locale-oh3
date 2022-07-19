@@ -1,0 +1,26 @@
+en;it;es;fr
+;\f[4]\nb[\n[4]]Eroi, io sono dotato di un fucile laser che mi permette di sparare a distanza.\| Per questo, però, non potrò aprire casse o compiere altre azioni.;;
+;\f[4]\nb[\n[4]]Per sparare ho bisogno di \c[1]Carica Energetica\c[0].\| La quantità di carica a mia disposizione è mostrata in alto, vicino all’Energia.;;
+;\f[4]\nb[\n[4]]Possiamo acquistare altra carica nel nuovo distributore del rifugio!;;
+;"\f[4]\nb[\n[4]]Il mio fucile laser può essere potenziato nella sezione ""Potenzia"" del Menu non appena troveremo le apposite CT per farlo.";;
+;Premi il tasto \c[1]Q\c[0] per bloccare/sbloccare la posizione di Grin.;;
+;Pssst, voi!\. Da questa parte!;;
+;\f[2]\nb[\n[2]]Oh, no.\| Ditemi che non è vero.;;
+;\f[1]\nb[\n[1]]Già, ditemi che non ho davanti i miei occhi il mio bellissimo castello.;;
+;\f[3]\nb[\n[3]]Era bellissimo.\. Adesso non tanto.;;
+;\f[1]\nb[\n[1]]Non posso vederlo in queste condizioni!;;
+;\f[1]\nb[\n[1]]Non posso sopportare tutto questo!\|§ Me ne vado!;;
+;\nb[???]Fermo, fermo.\. Dove pensi di andare?;;
+;\nb[???]Tutti quanti! Dove pensate di andare?!;;
+;\f[4]\nb[\n[4]]Bene eroi, io sarò con voi!\.§ Vi guiderò fino al \map[The Great Cluster].;;
+;\f[4]\nb[\n[4]]Vi sarò di grande aiuto.§ Potete contare su di me!;;
+;\f[4]\nb[\n[4]]Questa zona del regno è ormai disabitata da anni...\| Noi dobbiamo dirigerci verso la città, il \map[The Great Cluster] si trova in quella zona.;;
+;\f[4]\nb[\n[4]]Quindi dobbbiamo andare verso Est, dove una volta si trovava la Valle Selvaggia!\|§ Ricordate, no?;;
+;\f[1]\nb[\n[1]]Ma io voglio entrare nel mio castello e sedermi sul mio trono!;;
+;\f[4]\nb[\n[4]]Credo non sia il momento adatto.;;
+;Che desolazione… una volta il castello era colorato e possente… ma si sta bene qui, c'è tranquillità.;;
+;Sapevi che più missioni completi più alta sarà la tua ricompensa quando l'avrai completata?;;
+;\f[1]\nb[\n[1]]Che ridere…;;
+;<- \map[Deserted Lands];;
+;<- \map[Forbidden Jungle];;
+;\map[Abandoned Area] ->;;

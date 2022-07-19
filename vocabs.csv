@@ -1,0 +1,61 @@
+en;it;es;fr
+You can not save in this slot.;Non puoi salvare in questo slot.;No puedes guardar en esta ranura.;Tu ne peux pas sauvegarder ici.
+-Empty-;-Vuoto-;-Vacío-;-Vide-
+Playtime;Tempo di gioco;Tiempo jugado;Temps de jeu
+Location;Posizione;Ubicación;Position
+Dindini;Dindini;Dindini;Dindini
+Overwrite the file?;Sovrascrivere il file?;¿Sobrescribir el archivo?;Ecraser le fichier ?
+Cancel;Annulla;Cancelar;Annuler
+Choose a slot to save the game.;Scegli uno slot in cui salvare la partita.;Elige una ranura para guardar el juego.;Choisis un endroit où sauvegarder ta partie.
+Choose a slot to load the game.;Scegli una partita da caricare.;Elige una ranura para cargar el juego.;Choisis la partie à lancer.
+owned;posseduti;tienes;acquis
+Buy;Compra;Comprar;Acheter
+Sell;Vendi;Vender;Vendre
+Leave shop;Lascia il negozio;;
+;Accetta;;
+;Rifiuta;;
+Quit the game;Chiudi il gioco;Salir del juego;Quitter le jeu
+;;;
+Back to Title;Torna ai Titoli;Pantalla principal;Retour à l'écran-titre
+Save game;Salva partita;Guardar juego;Sauver le jeu
+Items;Oggetti;;
+Equipment;Equipaggiamento;;
+Attack;Attacco;;
+;\>Quanti \v[165] vuoi acquistare?;;
+;\>Quante \v[165] vuoi acquistare?;;
+;\>Vuoi teletrasportarti a;;
+You got;Ottieni;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+Exit game;Esci dal gioco;;
+;;;
+;;;
+;;;
+;;;
+You lose:\c[10]\>;Perdi:\c[10]\>;;
+;Sì;;
+;No;;
+;;;
+;;;
+You found:\c[14]\>;Trovi:\c[14]\>;HAS ENCONTRADO\c[14];TU TROUVES\c[14]
+You hand over:\c[14]\>;Consegni\c[14]\>;HAS REGALADO\c[14];TU AS DONNÉ\c[14]
+You got:\c[14]\>;Ricevi:\c[14]\>;TIENES\c[14];TU REÇOIS\c[14]
+Act;Atto;;
+;Saggio Viola;;
+The;Il;El;Le
+The;La;La;La
+The;I;Los;Les
+The;Le;Las;Les
+Ourhero;Nostroeroe;Nuestrohéroe;Notrehéros
+Tay;Tay;Tay;Tay
+Fury;Fury;Fury;Fury
+King;Re;Rey;Roi
+Sage;Saggio;Sabio;Sage
+Grin;Grin;Grin;Grin
+Enable;Attiva;;
+Disable;Disattiva;;
