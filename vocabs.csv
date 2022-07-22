@@ -25,13 +25,13 @@ Attack;Attacco;;
 ;\>Quante \v[165] vuoi acquistare?;;
 ;\>Vuoi teletrasportarti a;;
 You got;Ottieni;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
+;Completamento:;;
+;Figurine sbloccate:;;
+;Missioni Extra:;;
+;Nemici sconfitti:;;
+;N° di salvataggi:;;
+;Metri percorsi:;;
+;Distributore di \v[165];;
 Exit game;Esci dal gioco;;
 ;;;
 ;;;
@@ -40,13 +40,13 @@ Exit game;Esci dal gioco;;
 You lose:\c[10]\>;Perdi:\c[10]\>;;
 ;Sì;;
 ;No;;
-;;;
-;;;
+Item assigned!;Oggetto assegnato!;;
+Skill assigned!;Abilità assegnata!;;
 You found:\c[14]\>;Trovi:\c[14]\>;HAS ENCONTRADO\c[14];TU TROUVES\c[14]
 You hand over:\c[14]\>;Consegni\c[14]\>;HAS REGALADO\c[14];TU AS DONNÉ\c[14]
 You got:\c[14]\>;Ricevi:\c[14]\>;TIENES\c[14];TU REÇOIS\c[14]
 Act;Atto;;
-;Saggio Viola;;
+Finalboss;Bossfinale;;
 The;Il;El;Le
 The;La;La;La
 The;I;Los;Les

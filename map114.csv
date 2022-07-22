@@ -1,13 +1,13 @@
 en;it;es;fr
-;\nb[SAGGIO]Ed eccoci qua!\| Freschi come un bambino appena svezzato.;;
-;\nb[NOSTROEROE]Tu, rossiccio, pagami.;;
-;\nb[SAGGIO]Perché, cucciolo?;;
-;\nb[NOSTROEROE]Perché siamo venuti a salvarti, ovvio!\| E per la seconda volta, fra l'altro!\| E sei anche brutto, oltretutto!;;
-;\nb[SAGGIO]Sono sicuro che quando tutti noi saggi saremo di nuovo liberi ti faremo un bellissimo e grandissimo regalo!;;
-;\nb[NOSTROEROE]Uh che bello, va bene!;;
-;\nb[SAGGIO]Prima, però, devi salvare il mondo!;;
-;\nb[GRIN]Forza, tuo fratello ti aspetta da \map[The Great Cluster]!;;
-;\nb[GRIN]Manca l'ultimo saggio da liberare e saremo pronti per scagliare la nostra potenza contro \map[The Great Cluster] e distruggerlo!;;
-;\nb[GRIN]Torniamo indietro e capiamo come procedere.;;
-;\nb[SAGGIO]Vado!;;
+;\f[5]\nb[\n[5]]Ed eccoci qua!\| Freschi come un bambino appena svezzato.;;
+;\f[1]\nb[\n[1]]Tu, rossiccio, pagami.;;
+;\f[5]\nb[\n[5]]Perché, cucciolo?;;
+;\f[1]\nb[\n[1]]Perché siamo venuti a salvarti, ovvio!\| E per la seconda volta, fra l'altro!\| E sei anche brutto, oltretutto!;;
+;\f[5]\nb[\n[5]]Sono sicuro che quando tutti noi saggi saremo di nuovo liberi ti faremo un bellissimo e grandissimo regalo!;;
+;\f[1]\nb[\n[1]]Uh che bello, va bene!;;
+;\f[5]\nb[\n[5]]Prima, però, devi salvare il mondo!;;
+;\f[4]\nb[\n[4]]Forza, tuo fratello ti aspetta da \map[The Great Cluster]!;;
+;\f[4]\nb[\n[4]]Manca l'ultimo saggio da liberare e saremo pronti per scagliare la nostra potenza contro \map[The Great Cluster] e distruggerlo!;;
+;\f[4]\nb[\n[4]]Torniamo indietro e capiamo come procedere.;;
+;\f[5]\nb[\n[5]]Vado!;;
 ;Seleziona \n[1] per cominciare questa missione.;;
