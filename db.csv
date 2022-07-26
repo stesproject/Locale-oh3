@@ -16,9 +16,9 @@ Aqualung§ Allows you to survive underwater longer.;Barriera d'Acqua§ Una barri
 Plasma Rifle§ Shoots powerful projectiles with a higher rate of fire.;Fucile al Plasma§ Il fucile al plasma è ancora più veloce e potente nel danneggiare i nemici.;;
 Dragon Egg§ A dragon egg! Reyjiro might want to see this!;Uovo di Drago§ Un uovo di drago. Portalo a Reyjiro!;;
 Collectible Card;Nuova Figurina;;
-Skill: Barrier§ Set Barrier as the active skill. Used with the D key.;Abilità: Barriera§ Assegna l'abilità BARRIERA alla pressione del tasto D.;;
-Skill: Frost§ Set Frost as the active skill. Used with the D key.;Abilità: Gelo§ Assegna l'abilità GELO alla pressione del tasto D.;;
-Skill: Rage§ Set Rage as the active skill. Used with the D key.;Abilità: Furia§ Assegna l'abilità FURIA alla pressione del tasto D.;;
+Skill: Barrier§ Set Barrier as the active skill. Used with the D key.;Abilità: Barriera§ Assegna l'abilità Barriera alla pressione del tasto D.;;
+Skill: Frost§ Set Frost as the active skill. Used with the D key.;Abilità: Gelo§ Assegna l'abilità Gelo alla pressione del tasto D.;;
+Skill: Rage§ Set Rage as the active skill. Used with the D key.;Abilità: Furia§ Assegna l'abilità Furia alla pressione del tasto D.;;
 Sage's Water§ Water blessed by the Sages. Revives KO'd heroes.;Acqua dei Saggi§ Gli eroi che berranno quest'acqua torneranno in vita se sono KO.;;
 ;;;
 Iron Suit Burst;Carica Iron Suit;;
@@ -36,3 +36,9 @@ Sword TC;CT Spada;;
 Rifle TC;CT Fucile;;
 ESP;ESP;;
 Dindini;Dindini;;
+Ourhero;Nostroeroe;Nuestrohéroe;Notrehéros
+Tay;Tay;Tay;Tay
+Fury;Fury;Fury;Fury
+Grin;Grin;Grin;Grin
+Sage;Saggio;Sabio;Sage
+Finalboss;Bossfinale;;
