@@ -12,8 +12,8 @@ owned;posseduti;tienes;acquis
 Buy;Compra;Comprar;Acheter
 Sell;Vendi;Vender;Vendre
 Leave shop;Lascia il negozio;;
-;Accetta;;
-;Rifiuta;;
+Accept;Accetta;;
+Refuse;Rifiuta;;
 Quit the game;Chiudi il gioco;Salir del juego;Quitter le jeu
 ;;;
 Back to Title;Torna ai Titoli;Pantalla principal;Retour à l'écran-titre
@@ -21,27 +21,27 @@ Save game;Salva partita;Guardar juego;Sauver le jeu
 Items;Oggetti;;
 Equipment;Equipaggiamento;;
 Attack;Attacco;;
-;\>Quanti \v[165] vuoi acquistare?;;
-;\>Quante \v[165] vuoi acquistare?;;
-;\>Vuoi teletrasportarti a;;
+\>How many \v[165] will you buy?;\>Quanti \v[165] vuoi acquistare?;;
+\>How many \v[165] will you buy?;\>Quante \v[165] vuoi acquistare?;;
+\>Teleport to;\>Vuoi teletrasportarti a;;
 You got;Ottieni;;
-;Completamento:;;
-;Figurine sbloccate:;;
-;Missioni Extra:;;
-;Nemici sconfitti:;;
-;N° di salvataggi:;;
-;Metri percorsi:;;
-;Distributore di \v[165];;
+Completion rate:;Completamento:;;
+Collectible cards unlocked:;Figurine sbloccate:;;
+Side Missions:;Missioni Extra:;;
+Enemies defeated:;Nemici sconfitti:;;
+Saved:;N° di salvataggi:;;
+Distance ran:;Metri percorsi:;;
+\v[165] vending machine;Distributore di \v[165];;
 Exit game;Esci dal gioco;;
 ;;;
 ;;;
 ;;;
 ;;;
 You lose:\c[10]\>;Perdi:\c[10]\>;;
-;Sì;;
-;No;;
-Item assigned!;Oggetto assegnato!;;
-Skill assigned!;Abilità assegnata!;;
+Yes;Sì;;
+No;No;;
+Item hotkey set!;Oggetto assegnato!;;
+Skill hotkey set!;Abilità assegnata!;;
 You found:\c[14]\>;Trovi:\c[14]\>;HAS ENCONTRADO\c[14];TU TROUVES\c[14]
 You hand over:\c[14]\>;Consegni\c[14]\>;HAS REGALADO\c[14];TU AS DONNÉ\c[14]
 You got:\c[14]\>;Ricevi:\c[14]\>;TIENES\c[14];TU REÇOIS\c[14]
