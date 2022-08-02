@@ -1,8 +1,8 @@
 en;it;es;fr
-\>            Your current HP is \c[3]\v[165]\c[0].;\>            I tuoi PV attuali sono pari a \c[3]\v[165]\c[0].;;
-\>            Your current Atk is \c[3]\v[165]\c[0].;\>            I tuoi Pt. di Attacco attuali sono pari a \c[3]\v[165]\c[0].;;
-\c[5] \c[1]\v[165] ESP.\c[5] required to upgrade.§ UPGRADE§ CANCEL;\c[5]Per potenziare hai bisogno di \c[1]\v[165] ESP.\c[5]§ POTENZIA§ ANNULLA;;
-\>            Upgrade locked.;\>            Potenziamento bloccato.;;
+Your current Energy is \c[3]\v[165]\c[0].;L’Energia attuale è \c[3]\v[165]\c[0].;;
+Your current Atk is \c[3]\v[165]\c[0].;La Forza d’Attacco attuale è \c[3]\v[165]\c[0].;;
+\c[1]\v[165] ESP.\c[0] required to upgrade.§ UPGRADE§ CANCEL;Per potenziare hai bisogno di \c[1]\v[165] ESP.\c[0]§ POTENZIA§ ANNULLA;;
+Upgrade locked.;Potenziamento bloccato.;;
 This skill will allow all heroes to jump.;Questa abilità ti permetterà di saltare con tutti gli eroi.;;
 This skill will allow \n[3] to dig underground.;Questa abilità ti permetterà di scavare nel terreno con \n[3].;;
 As \n[3], press \c[1]ENTER\c[0] while standing over cracked ground to dig down.;Per scavare nel terreno posizionati sopra una crepa nel terreno e premi \c[1]INVIO\c[0] con \n[3].;;
@@ -15,6 +15,6 @@ This skill will drastically increase your attack power for a brief time.;Questa 
 Activating Fury costs \v[165] ESP.\|§ Equip the skill and press D to use it in battle.;Ogni volta che vorrai usare Furia ti costerà \v[165] ESP.\|§ Per usare questo potere in battaglia assegnalo dal menu al tasto D.;;
 This skill will slowly regenerate lost HP.;Questo potere ti consentirà di ripristinare gradualmente l'energia persa.;;
 This skill doesn't need to be activated and is always in effect.;Questo potere non richiede ESP e funziona in modo automatico.;;
-\c[14]ULTIMATE UPGRADE BONUS\c[0]§ \c[1]Hero Form\c[0]:§ HP\n[1] +150§ Attack Power+20\|;\c[14]BONUS TRASFORMAZIONE FINALE\c[0]§ \c[1]Modalità Eroe\c[0]:§ Incremento PV \n[1] +150§ Incremento Forza d'Attacco +20\|;;
+\c[14]ULTIMATE UPGRADE BONUS\c[0]§ \c[1]Hero Form\c[0]:§ HP +150§ Attack Power+20\|;\c[14]BONUS TRASFORMAZIONE FINALE\c[0]§ \c[1]Modalità Eroe\c[0]:§ PV +150§ Attacco +20\|;;
 Hold the attack button (\c[1]S\c[0]) to charge up a more powerful stream of energy.;Tieni premuto il tasto fuoco \c[1]S\c[0] per un raggio continuo e devastante.;;
 \c[14]ULTIMATE UPGRADE BONUS\c[0]§ \c[1]Auto Charge\c[0]:§ The laser rifle's ammunition will gradually regenerate over time.\|;\c[14]BONUS TRASFORMAZIONE FINALE\c[0]§ \c[1]Rigenerazione Energetica\c[0]:§ La Carica Energetica del Fucile si ripristina automaticamente in modo graduale.;;
