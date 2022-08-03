@@ -1,12 +1,12 @@
 en;it;es;fr
 Meat§ Fully recovers one hero's Energy.;Carne§ Ripristina completamente l'energia di un eroe.;Carne;Viande
 Diamond§ A precious gemstone imbued with great power.;Diamante§ Un diamante prezioso che conferisce incredibili poteri.;;
-Chest Key§ Opens locked chests.;Chiave del Baule§ Può aprire i bauli chiusi a chiave.;;
-Laboratory Key§ Grants access to the Laboratory.;Chiave Laboratorio§ Apre la porta del laboratorio.;;
+Chest Key§ Opens locked chests.;Chiave Baule§ Può aprire i bauli chiusi a chiave.;;
+Lab. Key§ Grants access to the Laboratory.;Chiave Lab.§ Apre la porta del laboratorio.;;
 Invincibility§ Makes heroes invincible for a brief time.;Invulnerabilità§ Rende gli eroi invincibili per un periodo di tempo limitato.;;
 Destroyer§ Boosts heroes' attack power for a brief time.;Distruttore§ Aumenta la potenza d’attacco degli eroi  per un periodo di tempo limitato.;;
 Potion§ Completely restores party HP.;Pozione§ Ripristina completamente l'energia di tutto il gruppo.;;
-Rifle Cell§ Ammunition for Grin's laser rifle.;Carica Fucile§ Carica energetica per il fucile laser di Grin.;;
+Cell§ Ammunition for Grin's laser rifle.;Carica§ Carica energetica per il fucile laser di Grin.;;
 Fury’s Armor§ Fury's metallic armor.;Armatura Fury§ Il rivestimento metallico che copre il corpo di Fury.;;
 Medallion§ Tay's magical medallion;Medaglione§ Il medaglione magico di Tay.;;
 Laser Rifle§ Grin's laser rifle.;Fucile Laser§ Il potente fucile laser di Grin.;;
@@ -23,7 +23,7 @@ Sage's Water§ Water blessed by the Sages. Revives KO'd heroes.;Acqua dei Saggi�
 ;;;
 Iron Suit Burst;Carica Iron Suit;;
 Rampage PlasmaGen§ The ultimate upgrade to Grin's plasma rifle.;Furia PlasmaGen§ Ultima devastante evoluzione del fucile al plasma di Grin.;;
-Rifle Cell§ Ammunition for Grin's laser rifle.;Carica Fucile§ Carica energetica per il fucile laser di Grin.;;
+Cell§ Ammunition for Grin's laser rifle.;Carica§ Carica energetica per il fucile laser di Grin.;;
 Saver§ Use to save anywhere, anytime.;Saver§ Salva dove e quando vuoi!;;
 King’s Sword;Spada del Re;;
 Mechanical Sword;Spada Meccanica;;
