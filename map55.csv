@@ -1,9 +1,9 @@
 en;it;es;fr
-;Una pozione che ripristina completamente l'energia di tutto il gruppo.;;
-;Rende gli eroi invincibili per un periodo di tempo limitato.;;
-;Aumenta la potenza di attacco degli eroi per un periodo di tempo limitato.;;
-;\f[5]\nb[\n[5]]Hey eroi!\. Come vedete dietro di me ci sono vari distributori.\. Usateli per acquistare ciò che volete!;;
-;\f[5]\nb[\n[5]]Sapete, ci servono fondi per mantenere questo posto.;;
-;\f[5]\nb[\n[5]]Però usateli con parsimonia, abbiamo una quantità limitata di articoli per alcuni prodotti.;;
-;\f[5]\nb[\n[5]]Io vado di là, nell'altra stanza.\.§ Ho ancora qualcosa da dirvi!;;
-;Vuoi ripristinare completamente la carica del fucile di \n[4]?§ Ricarica (180 D)§ Annulla;;
+A potion that fully refills the party's energy.;Una pozione che ripristina completamente l'energia di tutto il gruppo.;;
+Grants invincibility to the party for a brief time.;Rende gli eroi invincibili per un periodo di tempo limitato.;;
+Increases heroes' attack power for a brief time.;Aumenta la potenza di attacco degli eroi per un periodo di tempo limitato.;;
+\f[5]\nb[\n[5]]Heroes!\. As you can see, there are several vending machines here.\. Feel free to purchase what you need!;\f[5]\nb[\n[5]]Hey eroi!\. Come vedete dietro di me ci sono vari distributori.\. Usateli per acquistare ciò che volete!;;
+\f[5]\nb[\n[5]]You know...we still got expenses to cover for this place's upkeep.;\f[5]\nb[\n[5]]Sapete, ci servono fondi per mantenere questo posto.;;
+\f[5]\nb[\n[5]]Use those powerups, sparingly, though. Some of that stuff is on a limited stock.;\f[5]\nb[\n[5]]Però usateli con parsimonia, abbiamo una quantità limitata di articoli per alcuni prodotti.;;
+\f[5]\nb[\n[5]]I'll be right there in the next room.\.§ I still have something to tell you!;\f[5]\nb[\n[5]]Io vado di là, nell'altra stanza.\.§ Ho ancora qualcosa da dirvi!;;
+Recharge \n[4]'s rifle completely?§ Juice it up! (180 D)§ Nevermind;Vuoi ripristinare completamente la carica del fucile di \n[4]?§ Ricarica (180 D)§ Annulla;;
