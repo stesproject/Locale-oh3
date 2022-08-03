@@ -8,7 +8,7 @@ Overwrite the file?;Sovrascrivere il file?;¿Sobrescribir el archivo?;Ecraser le
 Cancel;Annulla;Cancelar;Annuler
 Choose a slot to save the game.;Scegli uno slot in cui salvare la partita.;Elige una ranura para guardar el juego.;Choisis un endroit où sauvegarder ta partie.
 Choose a slot to load the game.;Scegli una partita da caricare.;Elige una ranura para cargar el juego.;Choisis la partie à lancer.
-Owned;Ne hai;Tienes;Acquis
+owned;posseduti;;
 Buy;Compra;Comprar;Acheter
 Sell;Vendi;Vender;Vendre
 Quit;Esci;;
@@ -34,7 +34,7 @@ Distance ran:;Metri percorsi:;;
 \v[165] vending machine;Distributore di \v[165];;
 Exit game;Esci dal gioco;;
 Hold ENTER to upgrade!;Tieni premuto INVIO per potenziare!;;
-;;;
+Owned;Ne hai;Tienes;Acquis
 ;;;
 ;;;
 You lose:\c[10]\>;Perdi:\c[10]\>;;
