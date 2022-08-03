@@ -1,5 +1,5 @@
 en;it;es;fr
-;Seleziona Grin per cominciare questa missione.;;
-;Gli eroi possono restare sott'acqua per un perdiodo di tempo limitato, dopodiché avranno bisogno di ossigeno o cominceranno a perdere Energia.;;
-;Quando gli eroi hanno bisogno di ossigeno partirà un countdown di 5 secondi.;;
-;Esci dall'acqua o passa sopra le \c[1]Bolle d'Ossigeno\c[0] per recuperare ossigeno e fermare il countdown.;;
+Select Grin as your active hero to begin the mission.;Seleziona Grin per cominciare questa missione.;;
+Heroes can only hold their breath for a limited time underwater. They will begin to drown if they don't get any oxygen after that!;Gli eroi possono restare sott'acqua per un perdiodo di tempo limitato, dopodiché avranno bisogno di ossigeno o cominceranno a perdere Energia.;;
+When heroes are in danger of drowning, a 5 second countdown will start before they take damage.;Quando gli eroi hanno bisogno di ossigeno partirà un countdown di 5 secondi.;;
+Resurface or collect \c[1]Air bubbles\c[0] to catch your breath and reset the cooldown.;Esci dall'acqua o passa sopra le \c[1]Bolle d'Ossigeno\c[0] per recuperare ossigeno e fermare il countdown.;;
