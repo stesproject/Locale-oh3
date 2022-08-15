@@ -35,8 +35,8 @@ Distance ran:;Metri percorsi:;;
 Exit game;Esci dal gioco;;
 Hold ENTER to upgrade!;Tieni premuto INVIO per potenziare!;;
 Owned;Ne hai;Tienes;Acquis
-;;;
-;;;
+Full-screen;Schermo Int.;Pantalla compl.;Plein écran
+Windowed;Mod. finestra;Modo ventana;Mode fenêtré
 You lose:\c[10]\>;Perdi:\c[10]\>;;
 Yes;Sì;;
 No;No;;

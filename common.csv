@@ -35,7 +35,7 @@ Traverse the desert and reactivate the perimeter defense turrets to repel their 
 An augmented batch of cyborgs is attempting to escape the \map[Abandoned Area].;Dei cyborg super potenti vogliono uscire dalla \map[Abandoned Area].;;
 Use \n[4]'s rifle's unlimited charge to bring them down before they can get out.;Sfrutta la carica energetica continua e usa il fucile di \n[4] per respingere le ondate di nemici senza farti raggiungere.;;
 \c[17]OBJECTIVE: Clear out all of the cyborg waves.;\c[17]OBIETTIVO: Elimina tutte le ondate di cyborg.;;
-In the deepest part of the \map[Seabed], the Sages have scried upon a most precious treasure.;Nelle profondità del \map[Seabed] i saggi hanno scoperto§ un incredibile tesoro.;;
+In the deepest part of the \map[Seabed], the sages have scried upon a most precious treasure.;Nelle profondità del \map[Seabed] i saggi hanno scoperto§ un incredibile tesoro.;;
 Reach the treasure as fast as you can without drowning.;Raggiungi il tesoro al più presto evitando di affogare.;;
 \c[17]OBJECTIVE: Reach the end of the area before your O₂ meter runs out.;\c[17]OBIETTIVO: Finisci il percorso senza che il timer dell’ossigeno raggiunga lo 0.;;
 Purple Sage scattered booster rings throughout the \map[Forbidden Jungle], and has offered a hefty prize to the first who can pass through all of them without missing any.;Saggio Viola ha sparso degli anelli acceleratori nella \map[Forbidden Jungle], promettendo una buona ricompensa per chi riuscisse a passare attraverso tutti gli anelli senza perderne nemmeno uno.;;
@@ -66,7 +66,7 @@ Buy§ Cancel;Acquista§ Annulla;;
 - Find the dragon egg in the \map[Forbidden Jungle];- Trova l’uovo di drago nella \map[Forbidden Jungle];;
 - Enter the \map[Fire Kingdom] and free the Sage.;- Vai nel \map[Fire Kingdom] e libera il saggio;;
 - Enter the \map[Secret Laboratory] and free the last Sage.;- Vai nel \map[Secret Laboratory] e libera l’ultimo saggio;;
-- Rendezvous with the Sages at \map[The Great Cluster].;- Ritrovati con i saggi davanti a \map[The Great Cluster];;
+- Rendezvous with the sages at \map[The Great Cluster].;- Ritrovati con i saggi davanti a \map[The Great Cluster];;
 - Defeat \n[6];- Elimina \n[6];;
 - Reach 100% game completion;- Completa il gioco al 100%;;
 \c[1]MISSION COMPLETE;\c[1]MISSIONE COMPLETATA;;
