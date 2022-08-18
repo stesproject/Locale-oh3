@@ -1,7 +1,7 @@
 en;it;es;fr
 Your current Energy is \c[3]\v[165]\c[0].;L’Energia attuale è \c[3]\v[165]\c[0].;;
 Your current Atk is \c[3]\v[165]\c[0].;La Forza d’Attacco attuale è \c[3]\v[165]\c[0].;;
-\c[1]\v[165] ESP.\c[0] required to upgrade.§ UPGRADE§ CANCEL;Per potenziare hai bisogno di \c[1]\v[165] ESP.\c[0]§ POTENZIA§ ANNULLA;;
+\c[1]\v[165] ESP\c[0] required to upgrade.§ UPGRADE§ CANCEL;Per potenziare hai bisogno di \c[1]\v[165] ESP.\c[0]§ POTENZIA§ ANNULLA;;
 Upgrade locked.;Potenziamento bloccato.;;
 This skill will allow all heroes to jump.;Questa abilità ti permetterà di saltare con tutti gli eroi.;;
 This skill will allow \n[3] to dig underground.;Questa abilità ti permetterà di scavare nel terreno con \n[3].;;
